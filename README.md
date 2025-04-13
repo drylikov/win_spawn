@@ -4,7 +4,7 @@
 
 ## Installation
 
-  $ npm install win-spawn
+  $ npm install win_spawn
 
 ## Usage
 
@@ -12,10 +12,10 @@
 
   All the following will work exactly as if the 'win-spawn ' prefix was ommitted when on unix.
 
-    $ win-spawn foo
-    $ win-spawn ./bin/foo
-    $ win-spawn NODE_PATH=./lib foo
-    $ win-spawn NODE_PATH=./lib foo arg1 arg2
+    $ win_spawn foo
+    $ win_spawn ./bin/foo
+    $ win_spawn NODE_PATH=./lib foo
+    $ win_spawn NODE_PATH=./lib foo arg1 arg2
 
   You can also transform all the line endings in a directory from `\r\n` to `\n` just by running:
 
