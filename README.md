@@ -10,7 +10,7 @@
 
 ### Command Line
 
-  All the following will work exactly as if the 'win-spawn ' prefix was ommitted when on unix.
+  All the following will work exactly as if the 'win_spawn' prefix was ommitted when on unix.
 
     $ win_spawn foo
     $ win_spawn ./bin/foo
