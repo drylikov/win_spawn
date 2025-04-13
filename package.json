@@ -1,0 +1,21 @@
+{
+  "name": "win_spawn",
+  "version": "2.0.0",
+  "description": "Spawn for node.js but in a way that works regardless of which OS you're using",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drylikov/win_spawn.git"
+  },
+  "bin": {
+    "win_spawn": "./bin/win_spawn"
+  },
+  "devDependencies": {
+    "linify": "~1.0.1"
+  },
+  "scripts": {
+    "prepublish": ""
+  },
+  "author": "",
+  "license": ""
+}
